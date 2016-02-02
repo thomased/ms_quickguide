@@ -19,9 +19,7 @@ Thomas E. White^1^, Darrell J. Kemp^1^
 
 **_What is colour polymorphism?_** 
 
-Colour polymorphism is defined by the presence of multiple discretely coloured variants within a single population, the rarest of which is too common to be solely due to recurrent mutation. A requirement that the variation be primarily genetic, that is, highly heritable, is sometimes adopted to distinguish polymorphism from polyphenism---the latter of which describes variation arising from interactions between a single genotype and varied environments. Sexual dimorphism, purely ontogenetic colour change, and reversible colour variation within populations are also implicitly excluded.  
-
-The number of morphs withing a population can vary considerably. Dramatic examples include the 'exuberantly' polymorphic Hawaiian happy-face spider _Theridion grallator_, with over 12 morphs coexisting across four Hawaiian islands, and the poison strawberry frog _Oophaga pumilio_, with over 20 true-breeding morphs across their Central American distribution (Figure 1).    
+Colour polymorphism is defined by the presence of multiple discretely coloured variants within a single population, the rarest of which is too common to be solely due to recurrent mutation. A requirement that the variation be primarily genetic is sometimes adopted to distinguish polymorphism from polyphenism, which describes variation arising from interactions between a single genotype and varied environments. Sexual dimorphism, purely ontogenetic colour change, and reversible colour variation within populations are also implicitly excluded. Polymorphism requires the coexistence of only two morphs, but this can vary considerably. Dramatic examples include the 'exuberantly' polymorphic Hawaiian happy-face spider _Theridion grallator_, with over 12 morphs coexisting across four Hawaiian islands, and the poison strawberry frog _Oophaga pumilio_, with over 20 true-breeding morphs across their Central American distribution (Figure 1).    
 
 **_How do they develop?_**
 
@@ -33,7 +31,7 @@ Genetics, physiology (pigment vs structural). Human eye colour? Wellen. often co
 
 **_Is it common?_**
 
-Yes, polymorphisms are ecologically and taxonomically widespread. They occur in species that inhabit most terrestrial and aquatic habitats, and are found in most major groups of animals, as well as among flowering plants. Since colour is central. Polymorphism are common in sexual systems, and may ... They span terrestrial and marine habitats, and serve functional roles in the contexts of sexual signalling, mutualism, mimicry, aposematism, crypsis, and prey luring. The broader consequences of polymorphism are similarly diverse, and are even known to shape the fundamental processes of speciation and extinction.
+Polymorphisms are relatively rare, but are ecologically and taxonomically widespread. They occur in species that inhabit the majority of terrestrial and aquatic habitats, and are found in most major groups of animals, as well as among flowering plants. Since colour is central. Polymorphism are common in sexual systems, and may ..... serve functional roles in the contexts of sexual signalling, mutualism, mimicry, aposematism, crypsis, and prey luring. The broader consequences of polymorphism are similarly diverse, and are even known to shape the fundamental processes of speciation and extinction.
 
 **_Why are colour polymorphisms puzzling?_**
 
@@ -59,7 +57,7 @@ nocite: |
 ...
 
 <div style="text-align:center" markdown="1">
-![Colour polymorphisms in nature. (a, b) Both morphs of the spiny spider _Gasteracantha fornicata_, whose colour patterns visually lure prey. (c, d) Two of 15 morphs of the aposematic poison frog _Dendrobates pumilio_ (photos: Justin Lawrence). (e) Extreme colour and pattern variation in the intensively studied land snail _Cepaea nemoralis_.](../figs/polymorph.png) 
+![Colour polymorphisms in nature. (a, b) Both morphs of the spiny spider _Gasteracantha fornicata_, whose conspicuous colour patterns visually lure prey (Photos: Thomas White). (c, d) Colour and pattern variation in the highly polymorphic land snail _Cepaea nemoralis_ (Photos: Ettore Balocchi). (e, f) Two of 15 morphs of the aposematic poison frog _Dendrobates pumilio_ (photos: Justin Lawrence). ](../figs/poly.png) 
 </div>
 
 \newpage
