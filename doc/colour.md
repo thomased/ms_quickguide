@@ -19,13 +19,17 @@ Thomas E. White^1^, Darrell J. Kemp^1^
 
 **_What is colour polymorphism?_** 
 
-Colour polymorphism is defined by the presence of multiple discretely coloured variants within a single population, the rarest of which is too common to be solely due to recurrent mutation. A requirement that the variation be primarily genetic is sometimes adopted to distinguish polymorphism from polyphenism, which describes variation arising from interactions between a single genotype and varied environments. Sexual dimorphism, purely ontogenetic colour change, and reversible colour variation within populations are also implicitly excluded. Polymorphism requires the coexistence of only two morphs, but this can vary considerably. Dramatic examples include the 'exuberantly' polymorphic Hawaiian happy-face spider _Theridion grallator_, with over 12 morphs coexisting across four Hawaiian islands, and the poison strawberry frog _Oophaga pumilio_, with over 20 true-breeding morphs across their Central American distribution (Figure 1).    
+Colour polymorphism is the presence of multiple discretely coloured variants within a single population, the rarest of which is too common to be due to recurrent mutation. A requirement that the variation be genetic is often adopted to distinguish polymorphism from polyphenism, which describes variation arising from interactions between a single genotype and varied environments. Sexual dimorphism, purely ontogenetic colour variation, and reversible colour change are also implicitly excluded. While polymorphism requires the coexistence of at least two morphs, the true number of variants within a population can vary considerably. Dramatic examples include the 'exuberantly' polymorphic Hawaiian happy-face spider _Theridion grallator_, with over 12 morphs coexisting across four Hawaiian islands, and the poison strawberry frog _Oophaga pumilio_, with over 20 true-breeding morphs across their Central American distribution (Figure 1).    
 
 **_How do they develop?_**
 
-The genetic architecture of colour polymorphisms can vary enormously. In the simplest case, as in some damselflies, frogs, and cichlid fish, morphs may be determined by allelic variation at single locus and follow a simple Mendelian inheritance pattern. 
+Colour in nature is typically a combined product of pigments that absorb light, and physical structures that reflect it. Relatively subtle changes in both protein-coding and regulatory genes can give rise to dramatic shifts in final phenotypes, so . Unsurprisingly, this broad target for mutation and selection means the genetics and development of polymorphisms are highly variable between species. In simple cases, phenotypes may be determined by allelic variation at a single locus. The Midas cichlids _Amphilophus_, for example, exhibits a pigmentary dark-versus-gold polymorphism across both sexes that is controlled by a single dominant gene. Both morphs are similarly dark in early life thanks to broadly absorbent melanophores. In some ten percent of individuals, however, these pigments degrade throughout ontogeny to expose underlying xanthopores with their characteristic yellow-gold hue.
+
+
 
 Supergenes - heliconius
+
+many colour loci cluster with functionally unre- lated genes to form supergenes. Such supergenes link multiple genes into one segregating unit, thereby hard- coding for separate yet complementary phenotypes and preventing allelic combinations that create nonoptimal intermediates.
 
 Genetics, physiology (pigment vs structural). Human eye colour? Wellen. often correlated
 
@@ -35,7 +39,7 @@ Polymorphisms are relatively rare, but are ecologically and taxonomically widesp
 
 **_Why are colour polymorphisms puzzling?_**
 
-Colour is a conspicuous feature of the natural world, and one that is frequently under strong selection. Colour polymorphism are thus of interest in evolutionary biology because we may naively expect natural selection to erode variation and settle on a single optimum. The persistence of such extreme variation therefore offers a simple visual tool with which we can explore the processes that generate and maintain variation; the fuel for adaptive evolution. This feature of polymorphism has long been exploited---particularly in the pre-molecular era--- 
+Colour is a conspicuous feature of the natural world. It is a valuable channel of information, and so is often under strong selection across a suite of functional contexts. Colour polymorphisms have long been of interest in evolutionary biology because theory predicts that purifying selection should erode such variation in favour a single optimum. The persistence of extreme variation therefore offers a simple visual tool with which to explore the processes that generate and maintain variation. 
 
 **_So how is polymorphism maintained?_**
 
